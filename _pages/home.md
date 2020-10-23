@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Home"
+title: "KRaCR Lab - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "KRaCR Lab at IIIT-Delhi."
 sitemap: false
 permalink: /
 ---
