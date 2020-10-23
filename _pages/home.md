@@ -55,9 +55,6 @@ Background knowledge and the ability to draw appropriate inferences when require
     <span class="sr-only">Next</span>
   </a>
 </div>
-<div style="width: 100%"><iframe width="100%" height="600" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://maps.google.com/maps?width=100%25&amp;height=600&amp;hl=en&amp;q=IIIT-Delhi+(My%20Business%20Name)&amp;t=&amp;z=14&amp;ie=UTF8&amp;iwloc=B&amp;output=embed"></iframe><a href="https://www.maps.ie/route-planner.htm">Road Trip Planner</a></div>
-
-
 
 At the Knowledgeable Computing and Reasoning (KRaCR; pronounced as cracker) Lab affiliated with the department of CSE at IIIT-Delhi, we investigate techniques to incorporate these features into the machine and improve its decision making. We work on all aspects of the Semantic Web and Knowledge Graphs, including ontology modelling, knowledge graphs, ontology reasoning, and their applications to different domains such as healthcare, air pollution, and robotics.
 
