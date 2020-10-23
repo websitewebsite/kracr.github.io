@@ -1,9 +1,9 @@
 ---
-title: "Allan Lab - Research"
+title: "Allan Lab - Projects"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Allan Lab -- Projects"
 sitemap: false
-permalink: /research/
+permalink: /projects/
 ---
 
 # Research
