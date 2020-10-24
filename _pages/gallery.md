@@ -8,7 +8,7 @@ permalink: /gallery/
 # Pictures
 <div class="row">
 <div class="col-sm-6 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/a.jpg" width="100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/j.jpg" width="100%">
 </div>
   <div class="col-sm-6 clearfix">
 <img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/b.jpg" width="100%">
