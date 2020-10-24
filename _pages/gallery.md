@@ -6,9 +6,7 @@ permalink: /gallery/
 ---
 
 # Pictures
-<div class="container">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/SaphireSTM2.jpg" alt="Avatar" class="image" style="width:100%">
-  <div class="middle">
-      This image has it
-  </div>
+<div class="img__wrap">
+  <img class="img__img" src="{{ site.url }}{{ site.baseurl }}/images/slider7001400/NoiseCover2.jpg" />
+  <p class="img__description">This image looks super neat.</p>
 </div>
