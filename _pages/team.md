@@ -50,8 +50,8 @@ permalink: /team/
 </div>
 
 </div>
-
+</div>
 {% endfor %}
 
-</div>
+
 
