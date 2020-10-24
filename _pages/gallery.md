@@ -23,3 +23,4 @@ permalink: /gallery/
       </div>
   </div>
 </div>
+</div>
