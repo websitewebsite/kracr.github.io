@@ -8,9 +8,38 @@
 #  education3:
 #  education4:
 
-- name: Rosanne Wijgman
+- name: Monkia jain
   photo: rock.jpg
-  info: Master student
-  email: rosanne.wijgman@student.ru.nl
+  info: PhD student
+  email: monikaja@iiitd.ac.in
   number_educ: 0
   education1:
+  
+- name: Gunjan Singh
+  photo: rock.jpg
+  info: PhD student
+  email: gunjans@iiitd.ac.in
+  number_educ: 0
+  education1:
+
+- name: Paramit Bhattacharyya
+  photo: rock.jpg
+  info: Masters student
+  email: pramit18142@iiitd.ac.in
+  number_educ: 0
+  education1:
+  
+- name: Maheela Arif Yasvi
+  photo: rock.jpg
+  info: Masters student
+  email: maleeha18112@iiitd.ac.in
+  number_educ: 0
+  education1:
+  
+- name: Sutapa Mondal
+  photo: rock.jpg
+  info: Masters student
+  email: sutapa18056@iiitd.ac.in
+  number_educ: 0
+  education1:
+  
