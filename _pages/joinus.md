@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Join Us"
+title: "KRacR Lab - Join Us"
 layout: textlay
 excerpt: "Join Us"
 sitemap: false
