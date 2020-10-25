@@ -7,3 +7,13 @@
     display: Springer 2018, ISBN 978-3-319-73514-6, pp. 1-223
   highlight: 1
   news2:
+
+- title: "A survey of large-scale reasoning on the Web of data"
+  image: PbSpub.png
+  description: Project description here>>
+  authors: Grigoris Antoniou, Sotiris Batsakis, Raghava Mutharaju, Jeff Z. Pan, Guilin Qi, Ilias Tachmazidis, Jacopo Urbani, Zhangquan Zhou
+  link:
+    url: https://dblp.uni-trier.de/db/journals/ker/ker33.html#AntoniouBMPQTUZ18
+    display: Knowl. Eng. Rev. 33: e21(2018)
+  highlight: 1
+  news2:
