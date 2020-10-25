@@ -21,27 +21,6 @@
   email: gunjans@iiitd.ac.in
   number_educ: 0
   education1:
-
-- name: Paramit Bhattacharyya
-  photo: rock.jpg
-  info: Masters student
-  email: pramit18142@iiitd.ac.in
-  number_educ: 0
-  education1:
-  
-- name: Maheela Arif Yasvi
-  photo: rock.jpg
-  info: Masters student
-  email: maleeha18112@iiitd.ac.in
-  number_educ: 0
-  education1:
-  
-- name: Sutapa Mondal
-  photo: rock.jpg
-  info: Masters student
-  email: aayush.jain95@gmail.com
-  number_educ: 0
-  education1:
   
 - name: Aayush Jain
   photo: rock.jpg
@@ -82,13 +61,6 @@
   photo: rock.jpg
   info: Bachelors student
   email: raghav17083@iiitd.ac.in
-  number_educ: 0
-  education1:
- 
-- name: Kanav Bhagat
-  photo: rock.jpg
-  info: Bachelors student
-  email: kanav16046@iiitd.ac.in
   number_educ: 0
   education1:
   
