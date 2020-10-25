@@ -24,17 +24,17 @@ permalink: /gallery/
 </div>
 <div class="row">
 <div class="col-sm-6 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/i.jpg" width="100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Galleryli.jpg" width="100%">
 </div>
   <div class="col-sm-6 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/f.jpg" width="100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/h.jpg" width="100%">
 </div>
 </div>
 <div class="row">
 <div class="col-sm-6 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/l.jpg" width="100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/i.jpg" width="100%">
 </div>
   <div class="col-sm-6 clearfix">
-<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/h.jpg" width="100%">
+<img src="{{ site.url }}{{ site.baseurl }}/images/picpic/Gallery/f.jpg" width="100%">
 </div>
 </div>
