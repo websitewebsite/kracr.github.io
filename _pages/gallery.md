@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Gallery"
+title: "KRaCR Lab - Gallery"
 layout: piclay
-excerpt: "Allan Lab -- Gallery"
+excerpt: "KRaCR Lab -- Gallery"
 permalink: /gallery/
 ---
 
